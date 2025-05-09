@@ -46,8 +46,8 @@ Para garantir a consistência e a qualidade do código, foram estabelecidos cicl
             <td>Criação do documento</td>
             <td><a href="https://github.com/'ccarlaa'">Carla Clementino</a></td>
             <td>00/00/0000</td>
-            <td><a href="https://github.com/    ">  </a></td>
-            <td>DESCRICAO_DO_REVISOR</td>
+            <td><a href="https://github.com/Jagaima"> Davi Nobre </a></td>
+            <td>Analisei as inciativas extras feitas pela Carla, o bpmn parece estar nos conformes com o que foi feito entrega passada e é uma ótima adição. Não encontrei partes necessárias de se sofrer edição, deixando o documento inalterado mas revisado por outro integrante </td>
         </tr>
     </table>
 </div>
