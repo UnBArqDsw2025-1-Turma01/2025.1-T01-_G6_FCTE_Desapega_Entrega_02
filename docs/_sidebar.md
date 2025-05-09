@@ -18,6 +18,11 @@
       - [2.3.1. Diagrama de Pacotes](/Modelagem/2.3.1.DiagramaDePacotes.md)
       - [2.3.2. Diagrama de Casos de Uso](/Modelagem/2.3.2.DiagramaDeCasosDeUso.md)
     - [2.4. Participações - Modelagem](/Modelagem/2.4.ParticipacoesModelagem.md)
-    - [2.5. Iniciativas Extras - Modelagem](/Modelagem/2.5.IniciativasExtras.md)
-    - [2.6. Atas](/Modelagem/2.6.Atas.md)
+
+- **Iniciativas Extras**
+  - [BPMN](/assets/iniciativas/bpmn-front.md)
+
+- **Atas**
+  - [1º Reunião](/assets/Atas/2.6.Atas.md)
+  - [2º Reunião](/assets/Atas/2.7.Atas.md)
 
